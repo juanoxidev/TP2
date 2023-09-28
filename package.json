@@ -4,11 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon ./TP1/app.js",
-    "ms": "nodemon ./TP2/ms.js",
-    "mac": "nodemon ./TP2/mac.js",
-    "maptc": "nodemon ./TP2/maptc.js",
-    "mapaa": "nodemon ./TP2/mapaa.js"
+    "ms": "nodemon ./ms.js",
+    "mac": "nodemon ./mac.js",
+    "maptc": "nodemon ./maptc.js",
+    "mapaa": "nodemon ./mapaa.js"
   },
   "author": "",
   "license": "MIT",

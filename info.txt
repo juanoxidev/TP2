@@ -1,0 +1,21 @@
+{
+	"contenidoStr": "{\n  \"name\": \"tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"ms\": \"nodemon ./ms.js\",\n    \"mac\": \"nodemon ./mac.js\",\n    \"maptc\": \"nodemon ./maptc.js\",\n    \"mapaa\": \"nodemon ./mapaa.js\"\n  },\n  \"author\": \"\",\n  \"license\": \"MIT\",\n  \"dependencies\": {\n    \"nodemon\": \"^3.0.1\"\n  }\n}\n",
+	"contenidoObj": {
+		"name": "tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "app.js",
+		"scripts": {
+			"ms": "nodemon ./ms.js",
+			"mac": "nodemon ./mac.js",
+			"maptc": "nodemon ./maptc.js",
+			"mapaa": "nodemon ./mapaa.js"
+		},
+		"author": "",
+		"license": "MIT",
+		"dependencies": {
+			"nodemon": "^3.0.1"
+		}
+	},
+	"size": 317
+}
