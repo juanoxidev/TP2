@@ -1,0 +1,18 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon ./TP1/app.js",
+    "ms": "nodemon ./TP2/ms.js",
+    "mac": "nodemon ./TP2/mac.js",
+    "maptc": "nodemon ./TP2/maptc.js",
+    "mapaa": "nodemon ./TP2/mapaa.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
